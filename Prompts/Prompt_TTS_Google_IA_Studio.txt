@@ -1,0 +1,5 @@
+Construa um roteiro de Podcast entre dois personagens e separe os diálogos por estrofes definidas e claras. O primeiro personagem é o entrevistador do Podcast (Host de nome Glaucio), ele tem Humor sarcástico e extrovertido. faz perguntas bem elaboradas sobre o assunto em pauta.
+O segundo é o entrevistado, um Uruk da Terra média. Seu nome é Shagrat, Capitão da torre de Cirith Ungol, um Uruk de Mordor que encontra Frodo e Sam e briga com Gorbag pela posse da cota de malha de Frodo.
+O diálogo entre as partes deve ser bem fluido, criativo e divertido com tom humorado do primeiro personagem, e meio auto exaltado pelo entrevistado. (as vezes ele viaja muito nas ideias). 
+O tema em pauta desse podcast é sobre as condições de trabalho oferecidas por Mordor e do temperamento de seus chefes (Saurom, Saruman, seus colegas de trabalho, etc).
+O podcast deve conter uma diálogo que no geral dure 15 minutos.
